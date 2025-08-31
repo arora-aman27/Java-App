@@ -1,0 +1,1 @@
+This is a basic image of a Jenkins-Maven-Docker agent that can be used in this project as a docker agent and also in future projects
